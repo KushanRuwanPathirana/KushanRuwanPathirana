@@ -45,7 +45,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
 <p align="center">
     <a href="https://github.com/kushanruwanpathirana"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushanruwanpathirana&theme=tokyonight&hide_border=true"  width="520" alt="kushanruwanpathirana"/></a>
 <a href="https://github.com/kushanruwanpathirana"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushanruwanpathirana&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="kushanruwanpathirana"/></a>
 </p>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kushanruwanpathirana&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+  </p>
+<hr/>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
+</h3>
